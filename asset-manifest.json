@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mansi-portfolio/static/css/main.43d1a020.chunk.css",
-    "main.js": "/mansi-portfolio/static/js/main.f6c419ad.chunk.js",
-    "main.js.map": "/mansi-portfolio/static/js/main.f6c419ad.chunk.js.map",
+    "main.css": "/mansi-portfolio/static/css/main.33a74d4b.chunk.css",
+    "main.js": "/mansi-portfolio/static/js/main.644f2971.chunk.js",
+    "main.js.map": "/mansi-portfolio/static/js/main.644f2971.chunk.js.map",
     "runtime-main.js": "/mansi-portfolio/static/js/runtime-main.d27de8e8.js",
     "runtime-main.js.map": "/mansi-portfolio/static/js/runtime-main.d27de8e8.js.map",
-    "static/js/2.d6962880.chunk.js": "/mansi-portfolio/static/js/2.d6962880.chunk.js",
-    "static/js/2.d6962880.chunk.js.map": "/mansi-portfolio/static/js/2.d6962880.chunk.js.map",
+    "static/js/2.66d41525.chunk.js": "/mansi-portfolio/static/js/2.66d41525.chunk.js",
+    "static/js/2.66d41525.chunk.js.map": "/mansi-portfolio/static/js/2.66d41525.chunk.js.map",
     "index.html": "/mansi-portfolio/index.html",
-    "precache-manifest.0d8581eee6a5262ef45035c5f538da85.js": "/mansi-portfolio/precache-manifest.0d8581eee6a5262ef45035c5f538da85.js",
+    "precache-manifest.07f89d8296c01753187877861ee768bb.js": "/mansi-portfolio/precache-manifest.07f89d8296c01753187877861ee768bb.js",
     "service-worker.js": "/mansi-portfolio/service-worker.js",
-    "static/css/main.43d1a020.chunk.css.map": "/mansi-portfolio/static/css/main.43d1a020.chunk.css.map",
-    "static/js/2.d6962880.chunk.js.LICENSE.txt": "/mansi-portfolio/static/js/2.d6962880.chunk.js.LICENSE.txt",
+    "static/css/main.33a74d4b.chunk.css.map": "/mansi-portfolio/static/css/main.33a74d4b.chunk.css.map",
+    "static/js/2.66d41525.chunk.js.LICENSE.txt": "/mansi-portfolio/static/js/2.66d41525.chunk.js.LICENSE.txt",
     "static/media/index.css": "/mansi-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/amazon.jpg": "/mansi-portfolio/static/media/amazon.c8545373.jpg",
     "static/media/buld.jpg": "/mansi-portfolio/static/media/buld.a1051a22.jpg",
@@ -32,6 +32,7 @@
     "static/media/ino.png": "/mansi-portfolio/static/media/ino.ccf88661.png",
     "static/media/localguide.gif": "/mansi-portfolio/static/media/localguide.847873a8.gif",
     "static/media/localguide.png": "/mansi-portfolio/static/media/localguide.b7f903d7.png",
+    "static/media/mansi_photo.jpg": "/mansi-portfolio/static/media/mansi_photo.834a49bd.jpg",
     "static/media/mlh-logo.svg": "/mansi-portfolio/static/media/mlh-logo.bc5cfd3a.svg",
     "static/media/mlh.png": "/mansi-portfolio/static/media/mlh.53dd27a8.png",
     "static/media/mongo.png": "/mansi-portfolio/static/media/mongo.d324ee17.png",
@@ -45,8 +46,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d27de8e8.js",
-    "static/js/2.d6962880.chunk.js",
-    "static/css/main.43d1a020.chunk.css",
-    "static/js/main.f6c419ad.chunk.js"
+    "static/js/2.66d41525.chunk.js",
+    "static/css/main.33a74d4b.chunk.css",
+    "static/js/main.644f2971.chunk.js"
   ]
 }
