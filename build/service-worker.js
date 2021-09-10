@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://mansi10.github.io/mansi-portfolio/precache-manifest.99a6aad56740b9a29ae14a62162a0571.js"
+  "/mansi-portfolio/precache-manifest.07f89d8296c01753187877861ee768bb.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://mansi10.github.io/mansi-portfolio/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/mansi-portfolio/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });

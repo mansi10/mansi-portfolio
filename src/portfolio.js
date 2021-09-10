@@ -9,15 +9,17 @@ const settings = {
 
 //Home Page
 const greeting = {
-  // title: "Hello 👋.",
+  title: "Mansi Singh",
   //  title: "About me",
   title2: "Mansi",
   logo_name: "Mansi Singh",
   nickname: "mansi",
-  full_name: "Mansi Singh",
+  // full_name: "Mansi Singh",
   subTitle:
-    [", Graduate student at Dalhousie University and Ex-SAP, TCS.",
-    " Seeking co-op opportunities for software development roles"
+    [
+    " a software developer with a creative mindset and passion for exploring new technologies.",
+    " Currently a graduate student at Dalhousie University and Ex-SAP, TCS.",
+    " Seeking co-op opportunities for software development roles."
 ],
   resumeLink:
     "https://drive.google.com/file/d/11gZHDOE3T6B2AGKSHJFAQk1zie0FC7mn/view?usp=sharing",
@@ -26,7 +28,7 @@ const greeting = {
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/hardik-dudhrejia19/",
+  github: "https://github.com/mansi10",
   linkedin: "https://www.linkedin.com/in/mansi-singh-a4373376/",
   gmail: "mansi0910@gmail.com",
   facebook: "https://www.facebook.com/mansi.singh.735/"
@@ -35,13 +37,15 @@ const socialMediaLinks = {
 const skills = {
   data: [
     {
-      title: "Software Development",
+      title: "Technologies & Skills",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Develop highly interactive Front end / User Interfaces for your web applications.",
-        "⚡ Building responsive website front end using ReactJS.",
-        "⚡ Creating application backend in Flask, Node, Express and Spring Boot.",
-        "⚡ Hosting dockerized web apps on cloud platforms like AWS and Azure.",
+        "⚡ 5.5 years of professional experience as a Software Developer in a fast-paced Agile environment",
+        "⚡ Highly proficient in Java, Spring Boot, Angular, Node.js, and JavaScript with good experience in cloud architecture and microservices",
+        "⚡ Experience in Object Oriented Programming (OOP), Design patterns and Test-Driven Development (TDD)",
+        "⚡ Demonstrated strong problem-solving skills in innovation challenges and conferences during tenure at SAP India",
+        "⚡ Well-versed with cloud platforms (AWS, GCP) and CI/CD tools ",
+        "⚡ Self-motivated, strong interpersonal skills and eager to learn new technologies"
       ],
       softwareSkills: [
         {
@@ -66,14 +70,14 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        {
-          skillName: "C#",
-          fontAwesomeClassname: "simple-icons:csharp",
-          style: {
-            backgroundColor: "#FFFFFF",
-            color: "#F7DF1E",
-          },
-        },
+        // {
+        //   skillName: "C#",
+        //   fontAwesomeClassname: "simple-icons:csharp",
+        //   style: {
+        //     backgroundColor: "#FFFFFF",
+        //     color: "#F7DF1E",
+        //   },
+        // },
         {
           skillName: "C++",
           fontAwesomeClassname: "simple-icons:cplusplus",
@@ -180,17 +184,6 @@ const skills = {
             color: "#E94E32",
           },
         },
-      ],
-    },
-    {
-      title: "Cloud Platforms",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Experience working on multiple cloud platforms like AWS and Azure.",
-        "⚡ Experience hosting and managing websites.",
-        "⚡ Experience with CI/CD.",
-      ],
-      softwareSkills: [
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -198,13 +191,13 @@ const skills = {
             color: "#FF9900",
           },
         },
-        {
-          skillName: "Netlify",
-          fontAwesomeClassname: "simple-icons:netlify",
-          style: {
-            color: "#38AFBB",
-          },
-        },
+        // {
+        //   skillName: "GCP",
+        //   fontAwesomeClassname: "simple-icons:googlecloudplatform",
+        //   style: {
+        //     color: "#38AFBB",
+        //   },
+        // },
         {
           skillName: "Heroku",
           fontAwesomeClassname: "simple-icons:heroku",
@@ -227,7 +220,53 @@ const skills = {
           },
         },
       ],
-    },
+    }
+  //   {
+  //     title: "Cloud Platforms",
+  //     fileName: "CloudInfraImg",
+  //     skills: [
+  //       "⚡ Experience working on multiple cloud platforms like AWS and Azure.",
+  //       "⚡ Experience hosting and managing websites.",
+  //       "⚡ Experience with CI/CD.",
+  //     ],
+  //     softwareSkills: [
+  //       {
+  //         skillName: "AWS",
+  //         fontAwesomeClassname: "simple-icons:amazonaws",
+  //         style: {
+  //           color: "#FF9900",
+  //         },
+  //       },
+  //       {
+  //         skillName: "Netlify",
+  //         fontAwesomeClassname: "simple-icons:netlify",
+  //         style: {
+  //           color: "#38AFBB",
+  //         },
+  //       },
+  //       {
+  //         skillName: "Heroku",
+  //         fontAwesomeClassname: "simple-icons:heroku",
+  //         style: {
+  //           color: "#6863A6",
+  //         },
+  //       },
+  //       {
+  //         skillName: "Docker",
+  //         fontAwesomeClassname: "simple-icons:docker",
+  //         style: {
+  //           color: "#1488C6",
+  //         },
+  //       },
+  //       {
+  //         skillName: "GitHub Actions",
+  //         fontAwesomeClassname: "simple-icons:githubactions",
+  //         style: {
+  //           color: "#5b77ef",
+  //         },
+  //       },
+  //     ],
+    // },
   ],
 };
 
@@ -235,29 +274,30 @@ const degrees = {
   degrees: [
     {
       title: "Dalhousie University",
-      subtitle: "Master's in Applied Computer Science (GPA :- 4.16/4.30)",
+      subtitle: "Master's in Applied Computer Science",
       logo_path: "dal.png",
       alt_name: "Dal",
-      duration: "2019 - 2021",
+      duration: "2021 - 2022",
       descriptions: [
-        "⚡ I studied core subjects like Software Development, Cloud Computing, Machine Learning, etc. ",
+        "⚡ Studied courses like Web Development, Cloud Computing, Serverless Data Processing, and Visual Analytics. ",
         "⚡ I also received a merit scholarship of $1500 for academic excellence.",
         "⚡ I took part in Banking and Insurance hackathon oraganised by CGI and TD bank and secured 3rd position.",
       ],
       website_link: "https://www.dal.ca/",
     },
     {
-      title: "Gujarat Technological University",
-      subtitle: "Bachelor's in Computer Engineering (GPA :- 8.81/10)",
-      logo_path: "gtu.png",
+      title: "Indira Gandhi Delhi Technical University for Women",
+      subtitle: "Bachelor of Technology in Computer Science (GPA :- 8.92/10)",
+      logo_path: "igdtuwlogo.jpeg",
       alt_name: "Dal",
-      duration: "2015 - 2019",
+      duration: "2011 - 2015",
       descriptions: [
-        "⚡ I have studied core subjects like Data Structures and Algorithms, DBMS, Advanced Java, Python Programming, etc.",
-        "⚡ Participated in CodeVita, a coding competition organized by Tata Consultancy Services and cleared its 1st round with decent rank.",
-        "⚡ Secured 1st position in the class during the 4th semester.",
+        "⚡ Studied core computer science subjects such as Object-Oriented Programming, Data Structures and Algorithms, Database Management System, and Networking.",
+        "⚡ Served as Class Representative for two consecutive years by establishing effective communication regarding assignments and lectures among professors and students.",
+        "⚡ Participated in CodeVita, a coding competition organized by Tata Consultancy Services and was selected in top 5 finalists.",
+        // "⚡ Served as Class Representative for two consecutive years by establishing effective communication regarding assignments and lectures among professors and students.",
       ],
-      website_link: "https://www.gtu.ac.in/",
+      website_link: "https://www.igdtuw.ac.in/",
     },
   ],
 };
@@ -269,7 +309,7 @@ const certifications = {
       subtitle: "DeepLearning.ai",
       logo_path: "coursera.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/E888MXCWGXCL",
+        "https://www.coursera.org/account/accomplishments/certificate/4CN4TRSFT3HT",
       alt_name: "DeepLearning.ai",
       color_code: "#2AAFED",
       // color_code: "#47A048",
@@ -299,33 +339,39 @@ const certifications = {
 
 // Experience Page
 const experience = {
-  title: "Experience",
-  subtitle: "Full-Time Work Experience",
-  description: "1 year of work experience.",
-  header_image_path: "experience.svg",
+  // title: "Where I've worked",
+  // subtitle: "Full-Time Work Experience",
+  // description: "1 year of work experience.",
+  // header_image_path: "experience.svg",
   experiences: [
     {
-      title: "Software Development Engineer",
-      company: "Amazon",
-      website_link: "https://www.aboutamazon.com/",
-      logo_path: "amazon.jpg",
-      duration: "Aug 2021 - Present",
-      location: "Vancouver",
-      descriptions: ["⚡ I will be joining the AWS Elasticache team."],
+      title: "Software Engineer",
+      company: "SAP",
+      website_link: "https://www.sap.com/index.html",
+      logo_path: "SAP_logo.png",
+      duration: "Jun 2016 - Jan 2021",
+      location: "Gurgaon, India",
+      descriptions: [
+        "⚡ Led a team of 6 members to build and execute product roadmap by evaluating business needs, resource availability and defining success metrics.",
+        "⚡ Developed SAP Fiori applications using SAPUI5 and SAP Web IDE by deploying them on SAP Cloud Platform (Neo and Cloud Foundry) by configuring SAP Fiori apps on SAP Fiori Launchpad.",
+        "⚡ Implemented REST and OData microservices in Node.js and Spring Boot framework using Cloud Application Programming and SAP HANA DB",
+        "⚡ Designed the integration of external customer systems with SAP Business Suite by developing integration flows using XSLT mappings and Groovy scripts on SAP Cloud Platform Integration",
+        "⚡ Collaborated with Product Owners and conducted Design Thinking sessions to understand product requirements and system architecture, enhancing the backlog quality by 30%",
+      ],
       color: "#0071C5",
     },
     {
-      title: "IT Developer(Artificial Intelligence)",
-      company: "Canada Revenue Agency - Agence du revenu du Canada",
-      website_link: "https://www.canada.ca/en/revenue-agency.html",
-      logo_path: "cra-logo.jpg",
-      duration: "Sept 2020 - Jul 2021",
-      location: "Ottawa",
+      title: "Assistant System Engineer",
+      company: "Tata Consultancy Services (TCS)",
+      website_link: "https://www.tcs.com/",
+      logo_path: "tcs-color.png",
+      duration: "Aug 2015 - Jun 2016",
+      location: "Gurgaon, India",
       descriptions: [
-        "⚡ Created an upgraded version of chatbot that is currently on canada.ca by leveraging cloud services from AWS.",
-        "⚡ Trained a BERT model to classify the historical documents created by CRA based on content sensitivity.",
-        "⚡ Built a web app to keep track of the user’s individual usage costs on Azure cloud platform.",
-        "⚡ Developed a web app that shows real-time sentiment analysis from Twitter, Reddit, Facebook and Instagram.",
+        "⚡ Applied Agile principles in a banking application based on the Spring Boot framework, RESTful services, and Java design patterns.",
+        "⚡ Enhanced the overall application performance by 30% through debugging and resolving bugs",
+        "⚡ Implemented unit, and integration tests using Junit, and Mockito by improving software quality up to 35% ",
+        // "⚡ Developed a web app that shows real-time sentiment analysis from Twitter, Reddit, Facebook and Instagram.",
       ],
       color: "#0071C5",
     },
@@ -334,19 +380,19 @@ const experience = {
 
 // Projects Page
 const projectsHeader = {
-  title: "Projects",
+  title: "Some things I've built",
   description:
-    "My projects make use of a vast variety of latest technology tools. I have developed projects that spans across several domains of computer science such as Software Development, Cloud Computing, Machine Learning and Web Development. Below are some of my best works.",
+    "My projects make use of a vast variety of latest technology tools. I have developed projects that spans across several domains of computer science such as Software Development, Cloud Computing, and Web Development. Below are some of my best works.",
   avatar_image_path: "projects_image.svg",
 };
 
 // Contact Page
 const contactPageData = {
   contactSection: {
-    title: "Contact Me",
-    profile_image_path: "hardik.jpeg",
+    title: "Get In Touch",
+    profile_image_path: "mansi_photo.jpg",
     description:
-      "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
+      "My inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you! Feel free to mail me about any relevant job updates. ",
   },
   blogSection: {
     title: "Blogs",

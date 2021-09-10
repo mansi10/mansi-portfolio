@@ -12,7 +12,7 @@ function ExperienceDest(props) {
       <div className="educations-header-div">
         <Fade bottom duration={2000} distance="20px">
           <h1 className="educations-header" style={{ color: theme.text }}>
-            Full-Time Work Experiences
+            Where I've worked before!
           </h1>
         </Fade>
       </div>

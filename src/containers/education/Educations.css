@@ -5,7 +5,7 @@
   text-align: center;
 }
 
-@media (max-width: 1380px) {
+@media (max-width: 1500px) {
   .educations-header {
     font-size: 35px;
   }
