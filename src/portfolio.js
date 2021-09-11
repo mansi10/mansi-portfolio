@@ -414,6 +414,9 @@ const projects = {
         {
           name: "MongoDB",
           iconifyClass: "logos-mongodb",
+          // style: {
+          //   backgroundcolor: "#439743",
+          // },
         },
         {
           name: "Angular",
@@ -430,6 +433,10 @@ const projects = {
         {
           name: "CSS3",
           iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "Heroku",
+          iconifyClass: "logos-heroku",
         },
       ],
     },
@@ -459,6 +466,9 @@ const projects = {
         {
           name: "AWS",
           iconifyClass: "logos-aws",
+          style: {
+            color: "#FF9900",
+          },
         },
         {
           name: "Docker",
@@ -484,6 +494,10 @@ const projects = {
         {
           name: "CSS3",
           iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "Heroku",
+          iconifyClass: "logos-heroku",
         },
       ],
     },
@@ -517,6 +531,11 @@ const projects = {
         {
           name: "AWS",
           iconifyClass: "logos-aws",
+          // fontAwesomeClassname: "simple-icons:amazonaws",
+          // style: {
+          //   backgroundColor: "#FFFFFF",
+          //   color: "#FF9900",
+          // },
         },
         {
           name: "GCP",
