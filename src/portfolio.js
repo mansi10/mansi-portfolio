@@ -22,7 +22,7 @@ const greeting = {
     " Seeking co-op opportunities for software development roles."
 ],
   resumeLink:
-    "https://drive.google.com/file/d/11gZHDOE3T6B2AGKSHJFAQk1zie0FC7mn/view?usp=sharing",
+    "https://drive.google.com/file/d/11t-LnU3rwrD8GS54XAbzJkkZUDTUuudK/view?usp=sharing",
   mail: "mailto:mansi0910@gmail.com",
 };
 
