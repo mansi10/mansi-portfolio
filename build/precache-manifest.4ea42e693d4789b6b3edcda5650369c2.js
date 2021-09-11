@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01000f9dc4ecb71150d94a21a67d0f0d",
+    "revision": "a38a2b37023250d6abdcc4e76bffa11a",
     "url": "/mansi-portfolio/index.html"
   },
   {
-    "revision": "fabe0e44f35723764c83",
+    "revision": "30bd20216bcff08fbb28",
     "url": "/mansi-portfolio/static/css/main.33a74d4b.chunk.css"
   },
   {
-    "revision": "d8a73529c56c7dceeaad",
-    "url": "/mansi-portfolio/static/js/2.66d41525.chunk.js"
+    "revision": "ab47240d099e740b3aef",
+    "url": "/mansi-portfolio/static/js/2.145687a7.chunk.js"
   },
   {
     "revision": "4cf5c6c6f464cc15458a86cbdc669a15",
-    "url": "/mansi-portfolio/static/js/2.66d41525.chunk.js.LICENSE.txt"
+    "url": "/mansi-portfolio/static/js/2.145687a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fabe0e44f35723764c83",
-    "url": "/mansi-portfolio/static/js/main.644f2971.chunk.js"
+    "revision": "30bd20216bcff08fbb28",
+    "url": "/mansi-portfolio/static/js/main.71d32d94.chunk.js"
   },
   {
     "revision": "845fdfc0b77e2622e914",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/mansi-portfolio/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "bd705acd5e64f6d4aa8bf70ee760364a",
+    "url": "/mansi-portfolio/static/media/SAP_logo.bd705acd.png"
   },
   {
     "revision": "c85453730efa2ebe9e71e64b8a7e7b68",
@@ -218,6 +222,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7b7a76ef55658f6999ce00c5d55f85a5",
     "url": "/mansi-portfolio/static/media/skillenza.7b7a76ef.png"
+  },
+  {
+    "revision": "f91ff3fab7f523d75f39dd896a0e2d31",
+    "url": "/mansi-portfolio/static/media/tcs-color.f91ff3fa.png"
   },
   {
     "revision": "9f38217ab187dddce5462149e5dcb991",

@@ -18,7 +18,7 @@ const greeting = {
   subTitle:
     [
     " a software developer with a creative mindset and passion for exploring new technologies.",
-    " Currently a graduate student at Dalhousie University and Ex-SAP, TCS.",
+    " Currently a graduate student at Dalhousie University.",
     " Seeking co-op opportunities for software development roles."
 ],
   resumeLink:
@@ -280,8 +280,7 @@ const degrees = {
       duration: "2021 - 2022",
       descriptions: [
         "⚡ Studied courses like Web Development, Cloud Computing, Serverless Data Processing, and Visual Analytics. ",
-        "⚡ I also received a merit scholarship of $1500 for academic excellence.",
-        "⚡ I took part in Banking and Insurance hackathon oraganised by CGI and TD bank and secured 3rd position.",
+        "⚡ I participated in hackathon oraganised by CGI and TD bank and secured 3rd position.",
       ],
       website_link: "https://www.dal.ca/",
     },
@@ -305,24 +304,24 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Master Microservices with Spring Boot and Spring Cloud",
+      subtitle: "Udemy",
+      logo_path: "udemy.png",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-ccdce2c6-7b8c-4aa5-b662-18f6c0cefc44/",
+      alt_name: "Udemy",
+      color_code: "#2AAFED",
+      // color_code: "#E2405F",
+    },
+    {
       title: "Sequence Models",
       subtitle: "DeepLearning.ai",
       logo_path: "coursera.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/4CN4TRSFT3HT",
+        "https://www.udemy.com/certificate/UC-ccdce2c6-7b8c-4aa5-b662-18f6c0cefc44/",
       alt_name: "DeepLearning.ai",
       color_code: "#2AAFED",
       // color_code: "#47A048",
-    },
-    {
-      title: "Master Microservices with Spring Boot and Spring Cloud",
-      subtitle: "DeepLearning.ai",
-      logo_path: "coursera.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/4CN4TRSFT3HT",
-      alt_name: "DeepLearning.ai",
-      color_code: "#2AAFED",
-      // color_code: "#E2405F",
     },
     {
       title: "The Complete 2021 Web Development Bootcamp ",
@@ -356,7 +355,7 @@ const experience = {
         "⚡ Developed SAP Fiori applications using SAPUI5 and SAP Web IDE by deploying them on SAP Cloud Platform (Neo and Cloud Foundry) by configuring SAP Fiori apps on SAP Fiori Launchpad.",
         "⚡ Implemented REST and OData microservices in Node.js and Spring Boot framework using Cloud Application Programming and SAP HANA DB",
         "⚡ Designed the integration of external customer systems with SAP Business Suite by developing integration flows using XSLT mappings and Groovy scripts on SAP Cloud Platform Integration",
-        "⚡ Collaborated with Product Owners and conducted Design Thinking sessions to understand product requirements and system architecture, enhancing the backlog quality by 30%",
+        "⚡ Collaborated with Product Owners and conducted Design Thinking sessions to understand product requirements and system architecture, enhancing the backlog quality",
       ],
       color: "#0071C5",
     },
@@ -407,10 +406,72 @@ const projects = {
   data: [
     {
       id: "0",
-      name: "Group Formation Tool",
-      url: "https://github.com/hardik-dudhrejia19/Group-Formation-Tool",
+      name: "Student Handbook",
+      url: "https://github.com/mansi10/Student-Handbook",
       description:
-        "A Java Spring Boot app that creates groups for group projects based on the survey questions answered by the students.",
+        "A responsive web application for supporting Dalhousie international students to become accustomed to the Canadian education culture",
+      languages: [
+        {
+          name: "MongoDB",
+          iconifyClass: "logos-mongodb",
+        },
+        {
+          name: "Angular",
+          iconifyClass: "logos-java",
+        },
+        {
+          name: "Node.js",
+          iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+      ],
+    },
+    {
+      id: "1",
+      name: "Canada News Hub",
+      url: "https://github.com/mansi10/Canada-News-Hub",
+      description:
+        "A Software-as-a-Service for e-reading and posting news to a web application by focusing on AWS cloud architecture",
+      languages: [
+        {
+          name: "Angular",
+          iconifyClass: "logos-angular",
+        },
+        {
+          name: "Node.js",
+          iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "AWS",
+          iconifyClass: "logos-aws",
+        },
+        {
+          name: "Docker",
+          iconifyClass: "logos-docker",
+        },
+      ],
+    },
+    {
+      id: "2",
+      name: "EatOUT",
+      url: "https://github.com/mansi10/EatOUT",
+      description:
+        "A Java Spring Boot web application to order food from nearby restaurants using Thymeleaf template engine.",
       languages: [
         {
           name: "Java",
@@ -427,61 +488,19 @@ const projects = {
       ],
     },
     {
-      id: "1",
-      name: "Learning Management System",
-      url: "https://github.com/hardik-dudhrejia19/Learning-Management-System",
+      id: "3",
+      name: "Halifax Foodie",
+      url: "https://github.com/mansi10/HalifaxFoodie",
       description:
-        "A serverless cross platform (AWS + GCP) web app where students can sign up, study subjects, and discuss ideas with other students in a group chat.",
+        "a multi-cloud serverless web application for a food ordering system utilizing AWS/GCP services.",
       languages: [
         {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-      ],
-    },
-    {
-      id: "2",
-      name: "ShoppingKart",
-      url: "https://github.com/hardik-dudhrejia19/ShoppingKart",
-      description:
-        "Engineered an online grocery buying website using the MERN stack.",
-      languages: [
-        {
-          name: "ReactJS",
+          name: "React",
           iconifyClass: "logos-react",
         },
         {
-          name: "NodeJS",
+          name: "Node.js",
           iconifyClass: "logos-nodejs",
-        },
-        {
-          name: "MongoDB",
-          iconifyClass: "logos-mongodb",
-        },
-      ],
-    },
-    {
-      id: "3",
-      name: "Canada Tourism",
-      url: "https://github.com/hardik-dudhrejia19/Canada-Tourism",
-      description:
-        "Developed a thin client, cloud-based website where a user can search for tourist locations in Canada and can also book a bus ticket to reach their destination.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
         },
         {
           name: "HTML5",
@@ -494,29 +513,41 @@ const projects = {
         {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
+        },
+        {
+          name: "AWS",
+          iconifyClass: "logos-aws",
+        },
+        {
+          name: "GCP",
+          iconifyClass: "logos-gcp",
+        },
+        {
+          name: "Docker",
+          iconifyClass: "logos-docker",
         },
       ],
     },
     {
       id: "4",
-      name: "Neural Network from Scratch",
+      name: "DBMS-Simulator",
       url:
-        "https://github.com/hardik-dudhrejia19/FeedForward-Neural-Network-from-scratch",
+        "https://github.com/mansi10/DBMS-Simulator",
       description:
         "Implemented a completely dynamic neural network from scratch using numpy library.",
       languages: [
         {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "Java",
+          iconifyClass: "logos-java",
         },
       ],
     },
     {
       id: "5",
-      name: "Kijiji Notifier",
-      url: "https://github.com/hardik-dudhrejia19/Kijiji-Notifier",
+      name: "ChatApp",
+      url: "https://github.com/mansi10/ChatApp",
       description:
-        "An application that continuously monitors real estate properties on kijiji.com and notifies the user via E-Mail when the price of that particular property drops below a threshold price given by the user.",
+        "A web application supporting real time data transfer allowing the user to create a chat room and chat with other users.",
       languages: [
         {
           name: "Python",
