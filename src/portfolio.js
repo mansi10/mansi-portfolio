@@ -279,7 +279,7 @@ const degrees = {
       alt_name: "Dal",
       duration: "2021 - 2022",
       descriptions: [
-        "⚡ Achieved A+ grade in Web Development, Cloud Computing, Serverless Data Processing, and Software Development.",
+        "⚡ Achieved A+ grade in courses such as Web Development, Cloud Computing, Serverless Data Processing, and Software Development.",
         "⚡ Developed web applications implementing cutting-edge technologies with maintainable, robust, and flexible code by following SOLID Principles and Design Patterns ",
         // "⚡ I participated in hackathon oraganised by CGI and TD bank and secured 3rd position.",
       ],
