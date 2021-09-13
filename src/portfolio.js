@@ -279,8 +279,9 @@ const degrees = {
       alt_name: "Dal",
       duration: "2021 - 2022",
       descriptions: [
-        "⚡ Studied courses like Web Development, Cloud Computing, Serverless Data Processing, and Visual Analytics. ",
-        "⚡ I participated in hackathon oraganised by CGI and TD bank and secured 3rd position.",
+        "⚡ Achieved A+ grade in Web Development, Cloud Computing, Serverless Data Processing, and Software Development.",
+        "⚡ Developed web applications implementing cutting-edge technologies with maintainable, robust, and flexible code by following SOLID Principles and Design Patterns ",
+        // "⚡ I participated in hackathon oraganised by CGI and TD bank and secured 3rd position.",
       ],
       website_link: "https://www.dal.ca/",
     },
@@ -294,7 +295,6 @@ const degrees = {
         "⚡ Studied core computer science subjects such as Object-Oriented Programming, Data Structures and Algorithms, Database Management System, and Networking.",
         "⚡ Served as Class Representative for two consecutive years by establishing effective communication regarding assignments and lectures among professors and students.",
         "⚡ Participated in CodeVita, a coding competition organized by Tata Consultancy Services and was selected in top 5 finalists.",
-        // "⚡ Served as Class Representative for two consecutive years by establishing effective communication regarding assignments and lectures among professors and students.",
       ],
       website_link: "https://www.igdtuw.ac.in/",
     },
@@ -430,10 +430,10 @@ const projects = {
           //   backgroundcolor: "#439743",
           // },
         },
-        {
-          name: "Express.js",
-          iconifyClass: "logos-expressjs",
-        },
+        // {
+        //   name: "Express.js",
+        //   iconifyClass: "logos-expressjs",
+        // },
         {
           name: "Angular",
           iconifyClass: "logos-angular",
@@ -467,10 +467,10 @@ const projects = {
           name: "Angular",
           iconifyClass: "logos-angular",
         },
-        {
-          name: "Express.js",
-          iconifyClass: "logos-expressjs",
-        },
+        // {
+        //   name: "Express.js",
+        //   iconifyClass: "logos-expressjs",
+        // },
         {
           name: "Node.js",
           iconifyClass: "logos-nodejs",
