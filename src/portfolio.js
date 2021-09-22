@@ -288,7 +288,7 @@ const degrees = {
     {
       title: "Indira Gandhi Delhi Technical University for Women",
       subtitle: "Bachelor of Technology in Computer Science (GPA :- 8.92/10)",
-      logo_path: "igdtuwlogo.jpeg",
+      logo_path: "igit.jpeg",
       alt_name: "Dal",
       duration: "2011 - 2015",
       descriptions: [
