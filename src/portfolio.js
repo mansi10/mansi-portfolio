@@ -22,7 +22,7 @@ const greeting = {
     " Seeking full-time opportunities for software development roles."
 ],
   resumeLink:
-    "https://drive.google.com/file/d/11t-LnU3rwrD8GS54XAbzJkkZUDTUuudK/view?usp=sharing",
+    "https://drive.google.com/file/d/12vuAcbQDSpBsyxTMj51XqkzkhQvY8R-j/view?usp=sharing",
   mail: "mailto:mansi0910@gmail.com",
 };
 
