@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mansi-portfolio/precache-manifest.13d1efd42760550f1090c0af8309137e.js"
+  "/mansi-portfolio/precache-manifest.7855415e8ba29afc6fe14ed0de5d5170.js"
 );
 
 self.addEventListener('message', (event) => {

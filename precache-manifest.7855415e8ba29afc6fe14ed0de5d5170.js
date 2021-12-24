@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56f094bfd6bd545bf27a4fa644c2a324",
+    "revision": "43d9d007cfa529e15e6187b94ae0c79c",
     "url": "/mansi-portfolio/index.html"
   },
   {
-    "revision": "28b5d324faec0700e741",
+    "revision": "1dc7961b658e8b49c31c",
     "url": "/mansi-portfolio/static/css/main.33a74d4b.chunk.css"
   },
   {
-    "revision": "20dc6906030a1529263c",
-    "url": "/mansi-portfolio/static/js/2.8c86c41c.chunk.js"
+    "revision": "3601c78ee66d3cb82daa",
+    "url": "/mansi-portfolio/static/js/2.fa0575ae.chunk.js"
   },
   {
     "revision": "4cf5c6c6f464cc15458a86cbdc669a15",
-    "url": "/mansi-portfolio/static/js/2.8c86c41c.chunk.js.LICENSE.txt"
+    "url": "/mansi-portfolio/static/js/2.fa0575ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "28b5d324faec0700e741",
-    "url": "/mansi-portfolio/static/js/main.7e05f0cb.chunk.js"
+    "revision": "1dc7961b658e8b49c31c",
+    "url": "/mansi-portfolio/static/js/main.fc860d15.chunk.js"
   },
   {
     "revision": "845fdfc0b77e2622e914",
