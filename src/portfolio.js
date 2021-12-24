@@ -19,7 +19,7 @@ const greeting = {
     [
     " a software developer with a creative mindset and passion for exploring new technologies.",
     " Currently a graduate student at Dalhousie University.",
-    " Seeking co-op opportunities for software development roles."
+    " Seeking full-time opportunities for software development roles."
 ],
   resumeLink:
     "https://drive.google.com/file/d/11t-LnU3rwrD8GS54XAbzJkkZUDTUuudK/view?usp=sharing",
