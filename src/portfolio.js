@@ -334,7 +334,7 @@ const certifications = {
 const experience = {
   experiences: [
     {
-      title: "Software Engineer",
+      title: "Software Developer",
       company: "SAP",
       website_link: "https://www.sap.com/index.html",
       logo_path: "SAP_logo.png",
