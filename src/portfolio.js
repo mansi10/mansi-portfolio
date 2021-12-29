@@ -2,19 +2,17 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to true if you want to use the splash screen.
-  useCustomCursor: false, // Change this to false if you want the good'ol cursor
+  isSplash: true, 
+  useCustomCursor: false, 
   googleTrackingID: "UA-174238252-2",
 };
 
 //Home Page
 const greeting = {
   title: "Mansi Singh",
-  //  title: "About me",
   title2: "Mansi",
   logo_name: "Mansi Singh",
   nickname: "mansi",
-  // full_name: "Mansi Singh",
   subTitle:
     [
     " a software developer with a creative mindset and passion for exploring new technologies.",
@@ -281,7 +279,6 @@ const degrees = {
       descriptions: [
         "⚡ Achieved A+ grade in courses such as Web Development, Cloud Computing, Serverless Data Processing, and Software Development.",
         "⚡ Developed web applications implementing cutting-edge technologies with maintainable, robust, and flexible code by following SOLID Principles and Design Patterns ",
-        // "⚡ I participated in hackathon oraganised by CGI and TD bank and secured 3rd position.",
       ],
       website_link: "https://www.dal.ca/",
     },
@@ -311,7 +308,6 @@ const certifications = {
         "https://www.udemy.com/certificate/UC-ccdce2c6-7b8c-4aa5-b662-18f6c0cefc44/",
       alt_name: "Udemy",
       color_code: "#2AAFED",
-      // color_code: "#E2405F",
     },
     {
       title: "Sequence Models",
@@ -321,7 +317,6 @@ const certifications = {
         "https://www.udemy.com/certificate/UC-ccdce2c6-7b8c-4aa5-b662-18f6c0cefc44/",
       alt_name: "DeepLearning.ai",
       color_code: "#2AAFED",
-      // color_code: "#47A048",
     },
     {
       title: "The Complete 2021 Web Development Bootcamp ",
@@ -330,7 +325,6 @@ const certifications = {
       certificate_link:
         "https://www.udemy.com/certificate/UC-bb9871eb-77c2-4e5f-ab12-080b81ca6643/",
       alt_name: "Udemy",
-      // color_code: "#F6B808",
       color_code: "#2AAFED",
     },
   ],
@@ -338,10 +332,6 @@ const certifications = {
 
 // Experience Page
 const experience = {
-  // title: "Where I've worked",
-  // subtitle: "Full-Time Work Experience",
-  // description: "1 year of work experience.",
-  // header_image_path: "experience.svg",
   experiences: [
     {
       title: "Software Engineer",
@@ -353,16 +343,11 @@ const experience = {
       descriptions: [
         "⚡ Managed and led a team of 5 to develop end-to-end cloud-native web applications for a supply chain network using in-house technology, currently adopted by 70% of the US’s pharmaceutical companies for their drug traceability and counterfeit prevention",
         "⚡ Executed Software Development Lifecycle (SDLC) by building new features in an activity tracker system for a disaster relief collaboration platform which helped NGOs to plan and share relief activities in disaster-affected areas. Presented this solution to Red Cross Philippines",
-        "⚡ Developed scalable microservices using Spring Boot framework to interact with Blockchain and other cloud applications having terabytes of data, resulting in reduced latency by 20%",
+        "⚡ Developed scalable microservices using Node.js framework to interact with Blockchain and other cloud applications having terabytes of data, resulting in reduced latency by 35%",
         "⚡ Implemented Cloud to Cloud and Cloud to On-Premise integrations using SAP Cloud Platform Integration to ensure seamless data transfer and message transformations across customer systems and SAP environments",
         "⚡ Enforced code-quality standards, performed peer code reviews, and maintained Jenkins CI/CD pipelines, leading to a 25% reduction in defect rate",
         "⚡ Gathered requirements, prepared technical documentation, enhanced product backlogs, and finalized product release scope by collaborating with stakeholders",
         "⚡ Delivered technical trainings on in-house products and technologies to mentor new hires and ramp up customers",
-        // "⚡ Led a team of 6 members to build and execute product roadmap by evaluating business needs, resource availability and defining success metrics.",
-        // "⚡ Developed SAP Fiori applications using SAPUI5 and SAP Web IDE by deploying them on SAP Cloud Platform (Neo and Cloud Foundry) by configuring SAP Fiori apps on SAP Fiori Launchpad.",
-        // "⚡ Implemented REST and OData microservices in Node.js and Spring Boot framework using Cloud Application Programming and SAP HANA DB",
-        // "⚡ Designed the integration of external customer systems with SAP Business Suite by developing integration flows using XSLT mappings and Groovy scripts on SAP Cloud Platform Integration",
-        // "⚡ Collaborated with Product Owners and conducted Design Thinking sessions to understand product requirements and system architecture, enhancing the backlog quality",
       ],
       color: "#0071C5",
     },
@@ -376,10 +361,6 @@ const experience = {
       descriptions: [
         "⚡ Enhanced overall application performance by 30% by resolving and delivering bug-fixes biweekly in an Agile scrum team",
         "⚡ Improved code coverage up to 80% by implementing Mockito framework in JUnit"
-        // "⚡ Applied Agile principles in a banking application based on the Spring Boot framework, RESTful services, and Java design patterns.",
-        // "⚡ Enhanced the overall application performance by 30% through debugging and resolving bugs",
-        // "⚡ Implemented unit, and integration tests using Junit, and Mockito by improving software quality up to 35% ",
-        // "⚡ Developed a web app that shows real-time sentiment analysis from Twitter, Reddit, Facebook and Instagram.",
       ],
       color: "#0071C5",
     },
@@ -403,11 +384,6 @@ const contactPageData = {
       "My inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you! Feel free to mail me about any relevant job updates. ",
   },
   blogSection: {
-    // title: "Blogs",
-    // subtitle:
-    //   "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
-    // link: "https://twitter.com/Harikrushn9",
-    // avatar_image_path: "blogs_image.svg",
   },
 };
 
@@ -419,21 +395,12 @@ const projects = {
       url: "https://github.com/mansi10/Student-Handbook",
       description: [
         "A responsive web application for supporting Dalhousie international students to become accustomed to the Canadian education culture",
-        // "Designed application workflow through task flow diagrams and wireframes created using Balsamiq and Cacoo", 
-        // "Engineered RESTful APIs using Node.js and Express.js to handle HTTP requests in MongoDB"
       ],
       languages: [
         {
           name: "MongoDB",
           iconifyClass: "logos-mongodb",
-          // style: {
-          //   backgroundcolor: "#439743",
-          // },
         },
-        // {
-        //   name: "Express.js",
-        //   iconifyClass: "logos-expressjs",
-        // },
         {
           name: "Angular",
           iconifyClass: "logos-angular",
@@ -467,10 +434,6 @@ const projects = {
           name: "Angular",
           iconifyClass: "logos-angular",
         },
-        // {
-        //   name: "Express.js",
-        //   iconifyClass: "logos-expressjs",
-        // },
         {
           name: "Node.js",
           iconifyClass: "logos-nodejs",
@@ -486,9 +449,6 @@ const projects = {
         {
           name: "AWS",
           iconifyClass: "logos-aws",
-          // style: {
-          //   color: "#FF9900",
-          // },
         },
         {
           name: "Docker",
