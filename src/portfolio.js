@@ -337,8 +337,8 @@ const experience = {
       title: "IT Developer",
       company: "Canada Revenue Agency",
       website_link: "https://www.sap.com/index.html",
-      logo_path: "CRA.jpeg",
-      duration: "Jan 2022 - April 2021",
+      logo_path: "cra-logo.jpg",
+      duration: "Jan 2022 - Present",
       location: "Ontario, Canada",
       descriptions: [
         // "⚡ em architecture, prepared technical specifications and documentation, defined prototypes, enhanced product backlogs, and finalized product release scope by working in collaboration with Product Owners and Architects",
