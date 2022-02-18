@@ -39,7 +39,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ 5.5 years of professional experience as a Software Developer in a fast-paced Agile environment",
-        "⚡ Highly proficient in Java, Spring Boot, Angular, Node.js, and JavaScript with good experience in cloud architecture and microservices",
+        "⚡ Highly proficient in Java, Spring Boot, Angular, React, Node.js, and JavaScript with good experience in cloud architecture and microservices",
         "⚡ Experience in Object Oriented Programming (OOP), Design patterns and Test-Driven Development (TDD)",
         "⚡ Demonstrated strong problem-solving skills in innovation challenges and conferences during tenure at SAP India",
         "⚡ Well-versed with cloud platforms (AWS, GCP) and CI/CD tools ",
@@ -334,6 +334,19 @@ const certifications = {
 const experience = {
   experiences: [
     {
+      title: "IT Developer",
+      company: "Canada Revenue Agency",
+      website_link: "https://www.sap.com/index.html",
+      logo_path: "CRA.jpeg",
+      duration: "Jan 2022 - April 2021",
+      location: "Ontario, Canada",
+      descriptions: [
+        // "⚡ em architecture, prepared technical specifications and documentation, defined prototypes, enhanced product backlogs, and finalized product release scope by working in collaboration with Product Owners and Architects",
+        "⚡ Enhanced application performance by 30% by resolving and delivering bug-fixes biweekly for an Angular/Spring Boot-based application in an Agile scrum team ",
+      ],
+      color: "#0071C5",
+    },
+    {
       title: "Software Developer",
       company: "SAP",
       website_link: "https://www.sap.com/index.html",
@@ -341,12 +354,11 @@ const experience = {
       duration: "Jun 2016 - Jan 2021",
       location: "Gurgaon, India",
       descriptions: [
-        "⚡ Managed and led a team of 5 to develop end-to-end cloud-native web applications for a supply chain network using in-house technology, currently adopted by 70% of the US’s pharmaceutical companies for their drug traceability and counterfeit prevention",
-        "⚡ Executed Software Development Lifecycle (SDLC) by building new features in an activity tracker system for a disaster relief collaboration platform which helped NGOs to plan and share relief activities in disaster-affected areas. Presented this solution to Red Cross Philippines",
-        "⚡ Developed scalable microservices using Node.js framework to interact with Blockchain and other cloud applications having terabytes of data, resulting in reduced latency by 35%",
+        "⚡ Led a team of 4 to develop SAP Fiori applications using SAPUI5 for a supply chain network to comply with US’s DSCSA regulations, which is currently used by 80% of the US’s pharmaceutical companies for their drug traceability and counterfeit prevention",
+        "⚡ Developed scalable RESTful APIs in microservice architecture using Node.js to interact with Blockchain and other cloud applications having terabytes of data, utilized RabbitMQ for asynchronous messaging mechanism, resulting in reduced latency by 35%",
         "⚡ Implemented Cloud to Cloud and Cloud to On-Premise integrations using SAP Cloud Platform Integration to ensure seamless data transfer and message transformations across customer systems and SAP environments",
-        "⚡ Enforced code-quality standards, performed peer code reviews, and maintained Jenkins CI/CD pipelines, leading to a 25% reduction in defect rate",
-        "⚡ Gathered requirements, prepared technical documentation, enhanced product backlogs, and finalized product release scope by collaborating with stakeholders",
+        "⚡ Executed Software Development Lifecycle (SDLC) for quarterly releases of a SAP product, enforced code-quality standards, performed peer code reviews, and maintained Jenkins CI/CD pipelines, leading to a 25% reduction in defect rate ",
+        "⚡ Gathered requirements, analyzed system architecture, prepared technical specifications and documentation, defined prototypes, enhanced product backlogs, and finalized product release scope by working in collaboration with Product Owners and Architects",
         "⚡ Delivered technical trainings on in-house products and technologies to mentor new hires and ramp up customers",
       ],
       color: "#0071C5",
@@ -359,8 +371,7 @@ const experience = {
       duration: "Aug 2015 - Jun 2016",
       location: "Gurgaon, India",
       descriptions: [
-        "⚡ Enhanced overall application performance by 30% by resolving and delivering bug-fixes biweekly in an Agile scrum team",
-        "⚡ Improved code coverage up to 80% by implementing Mockito framework in JUnit"
+        "⚡ Improved code coverage up to 80% by using Mockito framework in Junit for backend, and Jasmine framework/Karma for frontend"
       ],
       color: "#0071C5",
     },
