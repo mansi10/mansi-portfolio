@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mansi-portfolio/static/css/main.33a74d4b.chunk.css",
-    "main.js": "/mansi-portfolio/static/js/main.654204af.chunk.js",
-    "main.js.map": "/mansi-portfolio/static/js/main.654204af.chunk.js.map",
+    "main.js": "/mansi-portfolio/static/js/main.e88a6080.chunk.js",
+    "main.js.map": "/mansi-portfolio/static/js/main.e88a6080.chunk.js.map",
     "runtime-main.js": "/mansi-portfolio/static/js/runtime-main.d27de8e8.js",
     "runtime-main.js.map": "/mansi-portfolio/static/js/runtime-main.d27de8e8.js.map",
-    "static/js/2.b1f6ba04.chunk.js": "/mansi-portfolio/static/js/2.b1f6ba04.chunk.js",
-    "static/js/2.b1f6ba04.chunk.js.map": "/mansi-portfolio/static/js/2.b1f6ba04.chunk.js.map",
+    "static/js/2.fa0575ae.chunk.js": "/mansi-portfolio/static/js/2.fa0575ae.chunk.js",
+    "static/js/2.fa0575ae.chunk.js.map": "/mansi-portfolio/static/js/2.fa0575ae.chunk.js.map",
     "index.html": "/mansi-portfolio/index.html",
-    "precache-manifest.95791ebb2df504fee68325a4030c4d6c.js": "/mansi-portfolio/precache-manifest.95791ebb2df504fee68325a4030c4d6c.js",
+    "precache-manifest.bac9b9ea8dc301b58cc06063c4d85f95.js": "/mansi-portfolio/precache-manifest.bac9b9ea8dc301b58cc06063c4d85f95.js",
     "service-worker.js": "/mansi-portfolio/service-worker.js",
     "static/css/main.33a74d4b.chunk.css.map": "/mansi-portfolio/static/css/main.33a74d4b.chunk.css.map",
-    "static/js/2.b1f6ba04.chunk.js.LICENSE.txt": "/mansi-portfolio/static/js/2.b1f6ba04.chunk.js.LICENSE.txt",
+    "static/js/2.fa0575ae.chunk.js.LICENSE.txt": "/mansi-portfolio/static/js/2.fa0575ae.chunk.js.LICENSE.txt",
     "static/media/index.css": "/mansi-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/SAP_logo.png": "/mansi-portfolio/static/media/SAP_logo.bd705acd.png",
     "static/media/amazon.jpg": "/mansi-portfolio/static/media/amazon.c8545373.jpg",
@@ -27,7 +27,6 @@
     "static/media/googleAssistant.jpg": "/mansi-portfolio/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/gtu.png": "/mansi-portfolio/static/media/gtu.3d9465c3.png",
     "static/media/hackathon1.svg": "/mansi-portfolio/static/media/hackathon1.7a2dbf7a.svg",
-    "static/media/hardik.jpeg": "/mansi-portfolio/static/media/hardik.0fce03ee.jpeg",
     "static/media/igdtuwlogo.jpeg": "/mansi-portfolio/static/media/igdtuwlogo.34a6bdda.jpeg",
     "static/media/igit.jpeg": "/mansi-portfolio/static/media/igit.db719a2d.jpeg",
     "static/media/iit.png": "/mansi-portfolio/static/media/iit.36d7942a.png",
@@ -49,8 +48,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d27de8e8.js",
-    "static/js/2.b1f6ba04.chunk.js",
+    "static/js/2.fa0575ae.chunk.js",
     "static/css/main.33a74d4b.chunk.css",
-    "static/js/main.654204af.chunk.js"
+    "static/js/main.e88a6080.chunk.js"
   ]
 }

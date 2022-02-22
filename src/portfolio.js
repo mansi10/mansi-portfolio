@@ -342,7 +342,8 @@ const experience = {
       location: "Ontario, Canada",
       descriptions: [
         // "⚡ em architecture, prepared technical specifications and documentation, defined prototypes, enhanced product backlogs, and finalized product release scope by working in collaboration with Product Owners and Architects",
-        "⚡ Enhanced application performance by 30% by resolving and delivering bug-fixes biweekly for an Angular/Spring Boot-based application in an Agile scrum team ",
+        "⚡ Enhanced application performance by 30% by resolving and delivering bug-fixes for an Angular/Spring Boot-based application",
+        "⚡ Automated 30+ test scenarios using Mockito framework in Junit for backend, and Jasmine framework/Karma for frontend"
       ],
       color: "#0071C5",
     },
@@ -371,7 +372,7 @@ const experience = {
       duration: "Aug 2015 - Jun 2016",
       location: "Gurgaon, India",
       descriptions: [
-        "⚡ Improved code coverage up to 80% by using Mockito framework in Junit for backend, and Jasmine framework/Karma for frontend"
+        "⚡ Designed and developed UI components for migration of existing Struts frontend applications to Angular 4+ "
       ],
       color: "#0071C5",
     },
