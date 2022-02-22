@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mansi-portfolio/static/css/main.33a74d4b.chunk.css",
-    "main.js": "/mansi-portfolio/static/js/main.e88a6080.chunk.js",
-    "main.js.map": "/mansi-portfolio/static/js/main.e88a6080.chunk.js.map",
+    "main.js": "/mansi-portfolio/static/js/main.cc8b4f7f.chunk.js",
+    "main.js.map": "/mansi-portfolio/static/js/main.cc8b4f7f.chunk.js.map",
     "runtime-main.js": "/mansi-portfolio/static/js/runtime-main.d27de8e8.js",
     "runtime-main.js.map": "/mansi-portfolio/static/js/runtime-main.d27de8e8.js.map",
     "static/js/2.fa0575ae.chunk.js": "/mansi-portfolio/static/js/2.fa0575ae.chunk.js",
     "static/js/2.fa0575ae.chunk.js.map": "/mansi-portfolio/static/js/2.fa0575ae.chunk.js.map",
     "index.html": "/mansi-portfolio/index.html",
-    "precache-manifest.bac9b9ea8dc301b58cc06063c4d85f95.js": "/mansi-portfolio/precache-manifest.bac9b9ea8dc301b58cc06063c4d85f95.js",
+    "precache-manifest.b693a4599dbc00dc42959eab360357df.js": "/mansi-portfolio/precache-manifest.b693a4599dbc00dc42959eab360357df.js",
     "service-worker.js": "/mansi-portfolio/service-worker.js",
     "static/css/main.33a74d4b.chunk.css.map": "/mansi-portfolio/static/css/main.33a74d4b.chunk.css.map",
     "static/js/2.fa0575ae.chunk.js.LICENSE.txt": "/mansi-portfolio/static/js/2.fa0575ae.chunk.js.LICENSE.txt",
@@ -50,6 +50,6 @@
     "static/js/runtime-main.d27de8e8.js",
     "static/js/2.fa0575ae.chunk.js",
     "static/css/main.33a74d4b.chunk.css",
-    "static/js/main.e88a6080.chunk.js"
+    "static/js/main.cc8b4f7f.chunk.js"
   ]
 }
